@@ -1,0 +1,10 @@
+li {
+    list-style: none;
+}
+
+.date {
+    float: right;
+    color:grey;
+    text-transform: uppercase;
+    font-style: italic;
+}
